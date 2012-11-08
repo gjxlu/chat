@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+#head {
+	font-size:20px;
+	margin-top:5px;
+	margin:auto;
+	text-align: left;
+}
+h1 {
+	color: #CCC;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#chat {
+	float:left;
+	font-size:16px;
+	margin-top:5px;
+	margin-left:35px;
+	text-align: left;
+}
+#mail {
+	float:left;
+	font-size:16px;
+	margin-top:5px;
+	margin-left:25px;
+	text-align: left;
+}
